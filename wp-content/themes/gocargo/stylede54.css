@@ -300,7 +300,7 @@ HEADER
 		background: #fff;
 	}
 	header.clone .logo-1 {
-		display: none;
+		display: block;
 	}
 	header.clone .logo-2 {
 		display: block;
@@ -408,12 +408,12 @@ HEADER
 		height: 80px;
 		background:#fff;
 	}
-	header.cbp-af-header-shrink .logo-1 {
+	/*header.cbp-af-header-shrink .logo-1 {
 		display: none;
 	}
 	header.cbp-af-header-shrink .logo-2 {
 		display: block;
-	}
+	}*/
 	header.cbp-af-header-shrink #mainmenu a {
 	    color: #555;
 	}
